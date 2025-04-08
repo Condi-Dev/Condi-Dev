@@ -1,4 +1,9 @@
-# 👋 Olá! Eu sou o Thiago Antonio Condi Carvalho
+<!-- Banner bonito com efeito de onda -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2f,100:3a3a5a&height=180&section=header&text=Olá%20👋%20Sou%20o%20Condi-Dev&fontSize=30&fontColor=ffffff&animation=blink" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=aa00D4&center=true&vCenter=true&width=435&lines=Estudante+de+ADS+💻;Amante+da+Física+e+do+Universo+🚀;Amo+ideias+estranhas+e+Inúteis+😄" />
+</p>
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 🔐 Apaixonado por programação e hacking 
