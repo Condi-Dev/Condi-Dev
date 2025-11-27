@@ -31,7 +31,7 @@ class CondiDev:
         return "Tecnologia é ferramenta — aprender é a missão."
 
 me = CondiDev()
-'''
+````
 
 🛠 Stack Tecnológica
 💻 Linguagens & Ferramentas
